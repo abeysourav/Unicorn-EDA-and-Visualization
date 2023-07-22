@@ -15,3 +15,8 @@ Time Series Analysis: To understand the growth and performance of unicorn compan
 
 
 <img width="984" alt="Screenshot 2023-07-22 at 2 47 59 PM" src="https://github.com/abeysourav/Unicorn-EDA-and-Visualization/assets/105174936/81099b41-92e1-4d3d-9d2c-301eda5c3294">
+
+<img width="995" alt="Screenshot 2023-07-22 at 2 48 43 PM" src="https://github.com/abeysourav/Unicorn-EDA-and-Visualization/assets/105174936/3903188d-9df4-476b-876c-2ce2df179ef4">
+
+<img width="998" alt="Screenshot 2023-07-22 at 2 49 22 PM" src="https://github.com/abeysourav/Unicorn-EDA-and-Visualization/assets/105174936/ecaf672d-9ff1-4953-bf1f-aff30585336c">
+

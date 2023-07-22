@@ -11,3 +11,7 @@ Comparative Analysis: We compare unicorn companies based on various factors such
 Geospatial Visualization: We create geographical visualizations to display the distribution of unicorn companies across different countries and regions. This helps identify unicorn hotspots and emerging markets.
 
 Time Series Analysis: To understand the growth and performance of unicorn companies over time, we visualize temporal trends using line charts, bar charts, or other relevant plots.
+
+
+
+<img width="984" alt="Screenshot 2023-07-22 at 2 47 59 PM" src="https://github.com/abeysourav/Unicorn-EDA-and-Visualization/assets/105174936/81099b41-92e1-4d3d-9d2c-301eda5c3294">
